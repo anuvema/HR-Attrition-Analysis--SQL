@@ -81,3 +81,30 @@ The analysis suggests that employee attrition is strongly associated with:
 Employees in Sales roles with low salary and overtime represent the highest-risk employee segment.
 
 Improving compensation, reducing excessive workload, and strengthening workplace environment may help improve employee retention.
+
+---
+
+---
+
+## 📸 Sample Analysis Results
+
+### Attrition Rate
+![Attrition Rate](ResultsScreenshots/result1.png)
+
+### Department-wise Attrition Rate
+![Department Attrition](ResultsScreenshots/result3.png)
+
+### Salary Impact Analysis
+![Salary Analysis](ResultsScreenshots/result4.png)
+
+### Department + Salary Analysis
+![Department Salary Analysis](ResultsScreenshots/result5.png)
+
+### Overtime Impact
+![Overtime Analysis](ResultsScreenshots/result6.png)
+
+### Relationship Satisfaction Analysis
+![Relationship Satisfaction](ResultsScreenshots/result7.png)
+
+### Job Role Analysis
+![Job Role Analysis](ResultsScreenshots/result8.png)
